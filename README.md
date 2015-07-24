@@ -1,4 +1,4 @@
-# underscores_shannon_group_theme by Andy Ba
+# Shannon_group_theme by Andy Ba
 This is a self-designed theme based on Underscores. There are several things you may need to know before using this theme:
 
 1: This theme is not responsive. It is designed purely for desktop devices, especially for those with large screen.
