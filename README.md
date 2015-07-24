@@ -8,3 +8,7 @@ This is a self-designed theme based on Underscores. There are several things you
 3: To populate the website, please use the database file called test_db.sql.
 
 4: It is recommended to use MAMP or WAMP to edit the theme if you want to use it as a base theme
+
+5: To see what the theme should look like, I include three screenshots. If you see sth missing or broken, make sure you include the plugins and populate the website with the database file.
+
+6: To use the theme, simply compress the shannon-group folder and upload it as normal theme file.
